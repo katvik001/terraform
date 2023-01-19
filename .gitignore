@@ -1,0 +1,5 @@
+*.pem
+vprofilekey
+vprofilekey.pub
+.terraform/
+.terraform
